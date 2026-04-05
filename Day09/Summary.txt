@@ -1,0 +1,3 @@
+The basiscs are done, so revise all these Day Goals and QA files for Intermediate level.
+
+Focus more on Terraform - Modules, main.tf calling other modules and files and all.
